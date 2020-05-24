@@ -18,7 +18,7 @@ public class BmiController {
 		} else if (bmiNumber <= 30) {
 			bmiDescription = "Pre-obese";
 		} else if (bmiNumber <= 35) {
-			bmiDescription = "Obese class@I";
+			bmiDescription = "Obese class I";
 		} else if (bmiNumber <= 40) {
 			bmiDescription = "Obese class II";
 		} else {
