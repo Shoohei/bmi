@@ -1,4 +1,4 @@
-package shoohei.bmi.Controller;
+package shoohei.bmi.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -29,6 +29,6 @@ public class BmiController {
 
 
 		return result;
-		
+
 	}
 }
