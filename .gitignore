@@ -4,6 +4,6 @@
 .project
 .settings
 .gradle
-target
-bin
-build
+target/
+bin/
+build/
